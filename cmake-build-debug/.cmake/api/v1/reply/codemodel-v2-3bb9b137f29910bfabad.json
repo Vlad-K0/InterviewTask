@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "InterviewTask::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-InterviewTask-Debug-7c140218b7a24b544b57.json",
+					"jsonFile" : "target-InterviewTask-Debug-d162331d399a25050a14.json",
 					"name" : "InterviewTask",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/vladosik/CLionProjects/InterviewTask/cmake-build-debug",
-		"source" : "/Users/vladosik/CLionProjects/InterviewTask"
+		"build" : "/Users/vladosik/GitHubRep/LabWork2/InterviewTask/cmake-build-debug",
+		"source" : "/Users/vladosik/GitHubRep/LabWork2/InterviewTask"
 	},
 	"version" : 
 	{

@@ -7,8 +7,6 @@
 #include <iostream>
 #include <vector>
 
-#include "Tools.h"
-
 void Calculate::CalculateSolution() {
     int arrayNum[6] = {1, 2, 3, 4, 5, 6};
     int solutionCounter = 1;
